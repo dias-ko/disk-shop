@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://d4hnhq8avin2f"
+path="res://.godot/imported/Crate Smash Sprint (2).mp3-725a09cb0d775825da90cab1fe65e3f3.mp3str"
+
+[deps]
+
+source_file="res://assets/music/Crate Smash Sprint (2).mp3"
+dest_files=["res://.godot/imported/Crate Smash Sprint (2).mp3-725a09cb0d775825da90cab1fe65e3f3.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://da2im11nbd77t"
+path="res://.godot/imported/Elevator Jazz.mp3-92028ee42462412b42514f0f96a4af95.mp3str"
+
+[deps]
+
+source_file="res://assets/music/Elevator Jazz.mp3"
+dest_files=["res://.godot/imported/Elevator Jazz.mp3-92028ee42462412b42514f0f96a4af95.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

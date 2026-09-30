@@ -1,0 +1,13 @@
+{
+  "run_seconds": 60, "shop_seconds": 30,
+  "base_damage": 2, "attack_interval": 0.30, "move_interval": 0.18,
+  "attack_floor": 0.12, "move_floor": 0.10,
+  "reroll_price": 5, "slot_prices": [60, 140],
+  "tier_weights": [60, 25, 10, 5], "tier_prices": [15, 35, 70, 120],
+  "junk": [
+    {"hp": 2, "cash": 1, "color": "718276"},
+    {"hp": 6, "cash": 3, "color": "ab7954"},
+    {"hp": 16, "cash": 8, "color": "875b53"},
+    {"hp": 36, "cash": 18, "color": "65778e"}
+  ]
+}

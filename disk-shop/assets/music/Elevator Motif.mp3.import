@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://big28ryurrdao"
+path="res://.godot/imported/Elevator Motif.mp3-3f99c86f89c90537d1ed96544d65d5aa.mp3str"
+
+[deps]
+
+source_file="res://assets/music/Elevator Motif.mp3"
+dest_files=["res://.godot/imported/Elevator Motif.mp3-3f99c86f89c90537d1ed96544d65d5aa.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

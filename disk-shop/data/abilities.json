@@ -1,0 +1,14 @@
+[
+ {"id":"bass", "name":"Bass Drop", "tier":0, "active":true, "charges":3, "damage":8, "radius":1, "description":"Blast the junk around you."},
+ {"id":"pierce", "name":"Piercing Note", "tier":0, "active":true, "charges":3, "damage":10, "range":4, "description":"Punch a line through stacked junk."},
+ {"id":"double", "name":"Double Time", "tier":1, "active":true, "charges":2, "duration":5, "description":"Move and smash faster for a burst."},
+ {"id":"feedback", "name":"Feedback", "tier":1, "active":false, "cooldown":6, "damage":8, "range":2, "duration":6, "description":"Marked junk explodes when broken."},
+ {"id":"dash", "name":"Stage Dive", "tier":1, "active":true, "charges":3, "charges_per_level":1, "range":3, "description":"Teleport 3 tiles ahead and shatter landing junk."},
+ {"id":"magnet", "name":"Cash Magnet", "tier":0, "active":false, "cooldown":5, "radius":2, "description":"Sweep up nearby reachable cash."},
+ {"id":"hat", "name":"Hi-Hat", "tier":0, "active":false, "cooldown":3, "damage":3, "description":"Automatically chip adjacent junk."},
+ {"id":"sample", "name":"Sample Loop", "tier":2, "active":false, "cooldown":8, "description":"Echo a basic hit when ready."},
+ {"id":"sub", "name":"Subwoofer", "tier":2, "active":false, "cooldown":7, "damage":6, "radius":1, "description":"Pulse damage into adjacent junk."},
+ {"id":"remix", "name":"Remix", "tier":2, "active":true, "charges":2, "damage":12, "radius":1, "range":3, "description":"Collect nearby cash, then blast junk."},
+ {"id":"rush", "name":"Platinum Rush", "tier":3, "active":true, "charges":2, "damage":24, "range":3, "description":"Dash through junk you can shatter."},
+ {"id":"encore", "name":"Encore", "tier":3, "active":false, "cooldown":12, "description":"Echo a damaging ability at half power."}
+]
